@@ -1,2 +1,3 @@
 Osoba3: Marcin Staśkiewicz
+Osoba1: Jakub Szczepankiewicz poprawka
 Osoba2: Kacper M.
